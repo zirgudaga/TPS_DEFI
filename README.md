@@ -1,9 +1,11 @@
 # TP - Alyra - Parcours Développeur.se Blockchain
 
-📌  Point de démarrage pour truffle - Compatible avec HdWallet 1.2.2
+📌  Travail sur les TPS de DEFI - Compatible avec HdWallet 1.2.2
 
 ## Contributeurs
 
+- [Hélène Bunel](https://github.com/Helene-mb)
+- [Édouard Vahanian](https://github.com/edvahn)
 - [Daniel Villa Monteiro](https://github.com/zirgudaga)
 
 ## Démarrage
