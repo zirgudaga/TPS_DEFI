@@ -10,6 +10,11 @@ contract MyDeFiProject {
     dai = IERC20(daiAddress);
   }
  
+  // fonction qui permet de voir qui a du DAI par adresse
+  function balanceof(address recipient) external view returns(uint256 balance){
+    return dai.balanceOf(recipient);
+  }
+
   // fonction qui permet d'effectuer un transfer de dai vers le recipient
   function give(address recipient, uint amount) external {
     dai.transfer(recipient, amount);
